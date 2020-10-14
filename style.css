@@ -4,8 +4,8 @@
     overflow-x: hidden;
 }
 .game{
-    width: 500px;
-    height: 200px;
+    width: 1000px;
+    height: 500px;
     border: 1px solid black;
     margin: auto;
 }
@@ -17,7 +17,7 @@
     top: 150px;
 }
 .animate{
-    animation: jump 0.3s linear;
+    animation: jump 0.1s linear;
 }
 @keyframes jump{
     0%{top: 150px;}
